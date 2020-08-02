@@ -1,0 +1,8 @@
+➜
+
+
+
+
+ java -jar target/MavenTutorial-1.0-SNAPSHOT.jar
+Hello
+➜  MavenTutorial
