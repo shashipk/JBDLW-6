@@ -61,4 +61,22 @@ https://api.github.com/search/users?q=shashi
 https://developer.github.com/v3/
 
 https://start.spring.io/
+
+==========================
+
+# Links for Spring Security:
+
+https://www.youtube.com/watch?v=sm-8qfMWEV8&list=PLqq-6Pq4lTTYTEooakHchTGglSvkZAjnE
+
+https://spring.io/guides/gs/securing-web/
+
+https://www.baeldung.com/security-spring
+
+# Links for Swagger 2
+
+https://swagger.io/
+
+https://springframework.guru/spring-boot-restful-api-documentation-with-swagger-2/
+
+https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
  
