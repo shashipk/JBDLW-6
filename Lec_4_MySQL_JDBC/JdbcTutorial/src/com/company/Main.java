@@ -13,8 +13,8 @@ public class Main {
         //Some software or translator we need to connect java code database.
         //mysql jdbc connector
 
-        String name = "GeeksForGeeks";
-        String phonenumber = "9876543210";
+        String name = "manoj";
+        String phonenumber = "6303968633";
 
         Connection connection = null;
         Statement statement = null;
